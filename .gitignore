@@ -1,6 +1,6 @@
 
 .py3-katas
-
+py3-katas
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
